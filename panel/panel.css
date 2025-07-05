@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1b1b1b; 
+    color: #D5D5D5;          
+    width: 400px;
+    overflow-x: hidden;
+}
+fieldset {
+    border-color: #535353; 
+}
+button, select {
+    background-color: #222; 
+    color: #D5D5D5;        
+}
+button:hover, select:hover {
+    background-color: #323232; 
+}
+.expandableDiv {
+    width: 100%;
+    overflow: hidden;
+    background-color: #1b2027; 
+    padding: 0;
+}
+.text-box {
+    outline: none;
+    width: 80%;
+    background-color: #323232; 
+    color: #D5D5D5;          
+}
+
+
+.toggleButton {
+    width: 24px;
+}
+select {
+    max-width: 330px;
+}
+#downloader-name {
+    width: 160px;
+}
+#export {
+    margin-top: 5px;
+}
+
+
+#clear {
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+#system > div {
+    display: flex;
+}
+
+#settings {
+    display: flex;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header > * {
+    margin: 5px;
+}
+h1 {
+    margin: 0;
+    font-size: 28px;
+}
+.header-right {
+    font-size: 11px;
+}
+
+#wvd > *, #remote > *, #prd > * {
+    margin: 5px;
+}
+
+.log-container {
+    display: flex;
+    justify-content: center;
+}
+.right-bound {
+    text-align: right;
+}
+
+.expandableDiv.expanded {
+    padding: 5px;
+}
+.expandableDiv.collapsed {
+    padding: 0;
+}
+.always-visible {
+    display: block;
+}
+.expanded-only {
+    display: none;
+}
+.expandableDiv.expanded .expanded-only {
+    display: block;
+}
