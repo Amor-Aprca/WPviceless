@@ -1,4 +1,4 @@
-<div class="Box-sc-g0xbh4-0 js-snippet-clipboard-copy-unpositioned DirectoryRichtextContent-module__SharedMarkdownContent--YORdJ" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">Vineless</h1><a id="user-content-vineless" class="anchor" aria-label="Permalink: Vineless" href="#vineless"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="Box-sc-g0xbh4-0 js-snippet-clipboard-copy-unpositioned DirectoryRichtextContent-module__SharedMarkdownContent--YORdJ" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">WPviceless</h1><a id="user-content-vineless" class="anchor" aria-label="Permalink: Vineless" href="#vineless"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ul dir="auto">
 <li>A browser extension to play DRM-protected content without a real CDM</li>
 <li>Works by redirecting the content keys to the browser's ClearKey handler</li>
@@ -25,27 +25,20 @@
 </ul>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Installation</h2><a id="user-content-installation" class="anchor" aria-label="Permalink: Installation" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ul dir="auto">
-<li>Chrome
+<li>Chrome/Edge
 <ol dir="auto">
-<li>Download the ZIP file from the <a href="https://github.com/Ingan121/Vineless/releases">releases section</a></li>
-<li>Navigate to <code>chrome://extensions/</code></li>
+<li>Download the ZIP file from the <a href="https://github.com/Amor-Aprca/WPviceless/releases">releases section</a></li>
+<li>Navigate to <code>chrome://extensions/</code> or <code>edge://extensions/</code></li>
 <li>Enable <code>Developer mode</code></li>
 <li>Drag-and-drop the downloaded file into the window</li>
 </ol>
 </li>
 <li>Firefox
 <ul dir="auto">
-<li>Persistent installation
-<ol dir="auto">
-<li>Download the XPI file from the <a href="https://github.com/Ingan121/Vineless/releases">releases section</a></li>
-<li>Navigate to <code>about:addons</code></li>
-<li>Click the settings icon and choose <code>Install Add-on From File...</code></li>
-<li>Select the downloaded file</li>
-</ol>
-</li>
+
 <li>Temporary installation
 <ol dir="auto">
-<li>Download the ZIP file from the <a href="https://github.com/Ingan121/Vineless/releases">releases section</a></li>
+<li>Download the ZIP file from the <a href="https://github.com/Amor-Aprca/WPviceless/releases">releases section</a></li>
 <li>Navigate to <code>about:debugging#/runtime/this-firefox</code></li>
 <li>Click <code>Load Temporary Add-on...</code> and select the downloaded file</li>
 </ol>
@@ -81,7 +74,7 @@
 <ul dir="auto">
 <li><a href="https://github.com/DevLARLEY/WidevineProxy2">WidevineProxy2</a></li>
 <li><a href="https://github.com/DevLARLEY/PlayreadyProxy2/tree/f4965f809dbea1a309e1fd50c072f50bf08fb03c">PlayreadyProxy2</a></li>
-<li><a href="https://github.com/Frooastside/node-widevine">node-widevine</a></li>
+<li><a href="https://github.com/Frooastside/node-widevine">node-widevine</a></li><li><a href="https://github.com/Ingan121/Vineless">Vineless</a></li>
 <li><a href="https://github.com/digitalbazaar/forge">forge</a></li>
 <li><a href="https://github.com/protobufjs/protobuf.js">protobuf.js</a></li>
 <li><a href="https://github.com/paulmillr/noble-curves">noble-curves</a></li>
